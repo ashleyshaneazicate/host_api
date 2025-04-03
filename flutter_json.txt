@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Complete math assignment",
+    "description": "Solve all exercises from chapter 5.",
+    "completed": false,
+    "startDate": "2025-03-25T00:00:00Z",
+    "endDate": "2025-03-27T00:00:00Z",
+    "recurrence": "Daily"
+  },
+  {
+    "id": 2,
+    "title": "Prepare project report",
+    "description": "Summarize progress and key findings for submission.",
+    "completed": true,
+    "startDate": "2025-03-28T00:00:00Z",
+    "endDate": "2025-03-30T00:00:00Z",
+    "recurrence": "Weekly"
+  },
+  {
+    "id": 3,
+    "title": "Watch Anime",
+    "description": "Solo Leveling Season 2 Episode 12.",
+    "completed": true,
+    "startDate": "2025-03-28T00:00:00Z",
+    "endDate": "2025-03-30T00:00:00Z",
+    "recurrence": "Weekly"
+  } 
+]
